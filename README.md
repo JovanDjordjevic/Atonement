@@ -12,8 +12,6 @@ Team Minute to Midnight developers:
 - [Darinka Zobenica](https://github.com/Mentathiel)
 - [Dunja Spasic](https://github.com/dunjx)
 
-Credit to https://www.FesliyanStudios.com for the background music.
-
 
 # Dagger Engine
 
