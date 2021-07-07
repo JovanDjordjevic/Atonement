@@ -3,8 +3,9 @@
 A small proof of concept game made for the "Game Development with C++" course held by Ubisoft at the Faculty of Mathematics in Belgrade <br>
 The repositoy is forked here for safekeeping and possible further modifications <br>
 Link to the original repository with the main Dager engine branch and projects made by other teams: https://github.com/enoxum/UbiBelPMF_2021<br>
-See the Wiki for list of assets used <br><br>
 
+See the [Wiki](https://github.com/JovanDjordjevic/Atonement/wiki) for list of assets used <br>
+See the Sreenshots folder to get a quick look at the game<br>
 
 
 Team Minute to Midnight developers:
