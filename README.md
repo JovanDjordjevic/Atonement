@@ -5,7 +5,7 @@ The repositoy is forked here for safekeeping and possible further modifications 
 Link to the original repository with the main Dager engine branch and projects made by other teams: https://github.com/enoxum/UbiBelPMF_2021<br>
 
 See the [Wiki](https://github.com/JovanDjordjevic/Atonement/wiki) for list of assets used <br>
-See the Sreenshots folder to get a quick look at the game<br>
+See the [Sreenshots](https://github.com/JovanDjordjevic/Atonement/tree/team/minute_to_midnight/main/Screenshots) folder to get a quick look at the game<br>
 
 
 Team Minute to Midnight developers:
