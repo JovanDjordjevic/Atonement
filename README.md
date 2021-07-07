@@ -13,6 +13,10 @@ Team Minute to Midnight developers:
 - [Darinka Zobenica](https://github.com/Mentathiel)
 - [Dunja Spasic](https://github.com/dunjx)
 
+## Building and running the game
+At this time, the only way to run the game is to do it from within Visual Studio. Follow the instructions here: <br>
+- [Windows](docs/setting_up_windows.md)
+- [Linux](docs/setting_up_linux.md)
 
 # Dagger Engine
 
@@ -23,12 +27,6 @@ A fully-featured, modern game engine made for educational purposes.
 - Dagger is data-driven and event-based.
 - Dagger is extremely modular.
 - Dagger is clear and clearly educational.
-
-## Setting up the development environment
-
-- [Windows](docs/setting_up_windows.md)
-- [Linux](docs/setting_up_linux.md)
-- Mac (WIP)
 
 ## Resources
 
