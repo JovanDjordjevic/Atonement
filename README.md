@@ -16,7 +16,6 @@ Team Minute to Midnight developers:
 ## Building and running the game
 At this time, the only way to run the game is to do it from within Visual Studio. Follow the instructions here: <br>
 - [Windows](docs/setting_up_windows.md)
-- [Linux](docs/setting_up_linux.md)
 
 # Dagger Engine
 
