@@ -1,9 +1,21 @@
 # Atonement
 
+A small proof of concept game made for the "Game Development with C++" course held by Ubisoft at the Faculty of Mathematics in Belgrade <br>
+The repositoy is forked here for safekeeping and possible further modifications <br>
+Link to the original repository with the main Dager engine branch and projects made by other teams: https://github.com/enoxum/UbiBelPMF_2021<br>
+See the Wiki for list of assets used <br><br>
+
+
+
+Team Minute to Midnight developers:
+- [Jovan Djordjevic](https://github.com/JovanDjordjevic)
+- [Darinka Zobenica](https://github.com/Mentathiel)
+- [Dunja Spasic](https://github.com/dunjx)
+
 Credit to https://www.FesliyanStudios.com for the background music.
 
 
-# Dagger
+# Dagger Engine
 
 A fully-featured, modern game engine made for educational purposes.
 
